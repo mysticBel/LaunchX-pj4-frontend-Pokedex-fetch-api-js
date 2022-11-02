@@ -28,11 +28,11 @@ Este proyecto debe contener
 
 ### 1. User Persona-Público Objetivo
 
-<img src="https://i.imgur.com/8VJZrP5.png" width="80%"/> 
+<img src="https://i.imgur.com/8VJZrP5.png" width="70%"/> 
 <br>
 
 ### 2. Diseño de la Interfaz de Usuario (Wireframe)
-
+<img src="https://user-images.githubusercontent.com/80657076/199579878-59686ff5-5b23-481d-897f-a72b4fb8d3a8.png" width="80%"/> 
 
 ### 3. Tecnología Usadas
   - HTML 
@@ -44,7 +44,7 @@ Este proyecto debe contener
 
 Consultando el API de Pokeapi
 
-<img src="https://user-images.githubusercontent.com/80657076/199548018-4c17a885-35b6-4fdc-8c0f-3cd78ef2dc7c.png" width="90%">
+<img src="https://user-images.githubusercontent.com/80657076/199548018-4c17a885-35b6-4fdc-8c0f-3cd78ef2dc7c.png" width="80%">
 
 ### 5. Despliegue
 

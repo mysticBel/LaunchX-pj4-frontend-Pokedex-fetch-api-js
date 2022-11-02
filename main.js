@@ -28,3 +28,17 @@ const typeColors = {
     default: '#2A1A1F',
 };
 
+const searchPokemon = e =>{
+    e.preventDefault(); //cancelamos el reload del submit del form
+    const { value } = e.target.pokemon //obtener valor del input
+    fetch(`https://pokeapi.co/api/v2/pokemon/${value.toLowerCase()}`)
+     .then(data => data.json())   
+     .then(response => renderPokemonData(response))  //obtener la response renderPokemonData
+    }
+
+
+   const renderPokemonData = data => {
+    const sprite = data.sprites.front_default;
+    const { stats, types } = data ;
+    console.log(data);
+   }

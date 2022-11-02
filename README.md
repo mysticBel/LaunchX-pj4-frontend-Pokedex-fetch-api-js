@@ -1,7 +1,7 @@
 # LaunchX-Pokedex
 <img src="https://media.giphy.com/media/llIOgB4mUey1FnjQSI/giphy.gif" width="80"/> 
 <br>
-Cuarto proyecto (Práctica JS) de la Mission Front-End para LaunchX LATAM.
+Cuarto proyecto (Práctica JS) de la FrontEnd Mision para LaunchX LATAM.
 
 <br>
 
@@ -26,16 +26,27 @@ Este proyecto debe contener
 
 ## Desarrollo
 
-### 1. Diseño de la Interfaces de Usuario (Wireframes)
+### 1. User Persona-Público Objetivo
 
-### 2. Buyer Persona-Público Objetivo
+<img src="https://i.imgur.com/8VJZrP5.png" width="50%"/> 
+<br>
+
+### 2. Diseño de la Interfaz de Usuario (Wireframe)
+
 
 ### 3. Tecnología Usadas
   - HTML 
   - CSS 
   - Javascript
+  - Figma
+  
+### 4. Objetivos de Aprendizaje
 
-### 4. Despliegue
+Consultando el API de Pokeapi
+
+<img src="https://user-images.githubusercontent.com/80657076/199548018-4c17a885-35b6-4fdc-8c0f-3cd78ef2dc7c.png" width="70%">
+
+### 5. Despliegue
 
 <br> <br>
 
